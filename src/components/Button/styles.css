@@ -1,0 +1,9 @@
+.button {
+    width: 15rem;
+    padding: .5rem;
+}
+
+.button:disabled {
+    background: #888;
+    cursor: not-allowed;
+}

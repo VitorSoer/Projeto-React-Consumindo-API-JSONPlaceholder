@@ -1,0 +1,8 @@
+.posts__content {
+    box-shadow: 0 0 10px rgba(0, 0, 0, .5);
+    padding: 2rem;
+}
+
+.posts__content img {
+    max-width: 100%;
+}
